@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Stylish&display=swap');
+
+.text-center{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 90px;
+    padding-top: 10px;
+    font-size: 60px;
+    font-family: 'Stylish', sans-serif;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    font-style: italic;
+    
+}
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+ display: flex;
+} 
+.flex-col{
+  flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
